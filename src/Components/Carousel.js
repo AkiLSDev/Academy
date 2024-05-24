@@ -4,8 +4,8 @@ import Webdev from "../carouselimages/webdev.jpeg"
 import C from "../carouselimages/c.jpeg";
 import Flutter from "../carouselimages/flutter.jpeg";
 import Blockchain from "../carouselimages/blockchain.jpeg";
-import Java from "../carouselimages/java.jpeg";
-import Cpp from "../carouselimages/c++.jpeg"
+// import Java from "../carouselimages/java.jpeg";
+// import Cpp from "../carouselimages/c++.jpeg"
 
 
 export default function Carousel() {
